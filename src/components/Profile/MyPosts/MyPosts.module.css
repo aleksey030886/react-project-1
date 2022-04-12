@@ -1,0 +1,12 @@
+.posts {
+    color: coral;
+    margin: 10px;
+}
+
+.posts div {
+    color: black;
+}
+
+.posts div div {
+    color: white;
+}

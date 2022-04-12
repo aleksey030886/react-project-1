@@ -1,0 +1,7 @@
+.user {
+    padding: 10px;
+}
+
+.user .active {
+    color: chartreuse;
+}
